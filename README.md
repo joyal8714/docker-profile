@@ -2,6 +2,8 @@
 
 # My Docker Hub Profile
 
-[![Docker Logo](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)](https://hub.docker.com/u/joyall)
+# My Docker Hub Profile
 
-Click the logo to visit my Docker Hub profile.
+[![Docker Hub](https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png)](https://hub.docker.com/u/joyall)
+
+ Click the Docker logo to see my Docker Hub profile.
